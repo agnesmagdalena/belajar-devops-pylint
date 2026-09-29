@@ -1,3 +1,5 @@
+"""Program kalkulator sederhana."""
+
 def hitung_luas_persegi_panjang(panjang, lebar):
     """Menghitung luas persegi panjang.
 
